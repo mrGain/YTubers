@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn tubers.wsgi --log-file
+web: gunicorn tubers.wsgi
