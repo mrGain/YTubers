@@ -103,10 +103,10 @@ WSGI_APPLICATION = 'tubers.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd5hrshn47uehpk',
-        'USER': 'bkqjagcqxrqxpz',
-        'PASSWORD': '885ceada3981f3ab9d2c9c4af70ef3a7c15f53af3bf8cf73d31bfe5a497d412f',
-        'HOST': 'ec2-34-231-221-151.compute-1.amazonaws.com',
+        'NAME': 'dcohg4qan6mj8n',
+        'USER': 'gujbejbkotktql',
+        'PASSWORD': '6b38a6b53b3bedfbd5b7fa28df7e4f2de3a37f51d65cd667ac7d7dd6e8fdd7f1',
+        'HOST': 'ec2-52-44-13-158.compute-1.amazonaws.com',
         'PORT': '5432'
     }
 }
